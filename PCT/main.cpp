@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     #ifdef _WIN32
     strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\PCT\\pruebas\\pct1.csv");
     #else
-    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/PCT/pruebas/pct1.csv");
+    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/PCT/pruebas/pct1.csv");
     #endif
     P1.IngresarDatos(NOMBREARCHIVO);
     sPrueba1 = P1.CalcularPesos();

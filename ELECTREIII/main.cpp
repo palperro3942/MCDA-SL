@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
     #ifdef _WIN32
     strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\artesanias.csv");
     #else
-    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/ELECTREIII/pruebas/artesanias.csv");
+    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/artesanias.csv");
     #endif
     E1.IngresarDatos(CargarArchivo(NOMBREARCHIVO));
     E1.Construir();
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     #ifdef _WIN32
     strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\hoteles.csv");
     #else
-    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/ELECTREIII/pruebas/hoteles.csv");
+    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/hoteles.csv");
     #endif
     E2.IngresarDatos(CargarArchivo(NOMBREARCHIVO));
     E2.Construir();
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     #ifdef _WIN32
     strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\ems.csv");
     #else
-    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/ELECTREIII/pruebas/ems.csv");
+    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/ems.csv");
     #endif
     E3.IngresarDatos(CargarArchivo(NOMBREARCHIVO));
     E3.Construir();
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     #ifdef _WIN32
     strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\tesis.csv");
     #else
-    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/ELECTREIII/pruebas/tesis.csv");
+    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/tesis.csv");
     #endif
     E4.IngresarDatos(CargarArchivo(NOMBREARCHIVO));
     E4.Construir();
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
     #ifdef _WIN32
     strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\universidades.csv");
     #else
-    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/ELECTREIII/pruebas/universidades.csv");
+    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/universidades.csv");
     #endif
     E5.IngresarDatos(CargarArchivo(NOMBREARCHIVO));
     E5.Construir();
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
     #ifdef _WIN32
     strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\tproductos.csv");
     #else
-    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/ELECTREIII/pruebas/tproductos.csv");
+    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/tproductos.csv");
     #endif
     E6.IngresarDatos(CargarArchivo(NOMBREARCHIVO));
     E6.Construir();
@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
     #ifdef _WIN32
     strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\MDMelectre.csv");
     #else
-    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/ELECTREIII/pruebas/MDMelectre.csv");
+    strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/MDMelectre.csv");
     #endif
     E7.IngresarDatos(CargarArchivo(NOMBREARCHIVO));
     E7.Construir();
