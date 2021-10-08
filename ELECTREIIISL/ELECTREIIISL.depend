@@ -130,3 +130,64 @@
 	<algorithm>
 	"../ELECTREIII/ElectreIII.hpp"
 
+1621395088 source:d:\software\sistemas\investigacion\madm-sl\electreiii\electreiii.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<algorithm>
+	<math.h>
+	<iostream>
+	"ElectreIII.hpp"
+
+1606625867 d:\software\sistemas\investigacion\madm-sl\electreiii\electreiii.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	"../SUPERACION/Superacion.hpp"
+
+1614901432 d:\software\sistemas\investigacion\madm-sl\superacion\superacion.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	"../METODOMULTICRITERIO/MetodoMulticriterio.hpp"
+
+1606585528 d:\software\sistemas\investigacion\madm-sl\metodomulticriterio\metodomulticriterio.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1606365854 source:d:\software\sistemas\investigacion\madm-sl\metodomulticriterio\metodomulticriterio.cpp
+	"MetodoMulticriterio.hpp"
+
+1614901469 source:d:\software\sistemas\investigacion\madm-sl\superacion\superacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	"../METODOMULTICRITERIO/MetodoMulticriterio.hpp"
+	"../LIBRERIAS/utilerias/utilerias.hpp"
+	"Superacion.hpp"
+
+1612745348 d:\software\sistemas\investigacion\madm-sl\librerias\utilerias\utilerias.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<regex>
+
+1614983943 source:d:\software\sistemas\investigacion\madm-sl\electreiiisl\electreiiisl.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<algorithm>
+	<math.h>
+	<iostream>
+	<cstring>
+	<iostream>
+	<iomanip>
+	<algorithm>
+	"../ELECTREIII/ElectreIII.hpp"
+

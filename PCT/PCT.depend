@@ -21,7 +21,7 @@
 	<stdlib.h>
 	<string>
 
-1606708273 
+1604112275 
 
 1606954305 source:/media/francisco/Varios/Software/Sistemas/Investigacion/PCT/pct.cpp
 	<iostream>
@@ -58,8 +58,6 @@
 	<stdlib.h>
 	<stdio.h>
 	<stdlib.h>
-
-1604112275 
 
 1604003650 /media/francisco/Varios/Software/Sistemas/Investigacion/LIBRERIAS/utilerias/salida.hpp
 	<stdio.h>
@@ -211,6 +209,52 @@
 	"../METODOASIGNACIONPESOS/MetodoAsignacionPesos.hpp"
 
 1606954305 source:/media/francisco/Varios/Software/Sistemas/Investigacion/MADM-SL/PCT/pct.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	"pct.hpp"
+
+1612745348 source:d:\software\sistemas\investigacion\madm-sl\librerias\utilerias\utilerias.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	"utilerias.hpp"
+
+1612745348 d:\software\sistemas\investigacion\madm-sl\librerias\utilerias\utilerias.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<regex>
+
+1606451447 source:d:\software\sistemas\investigacion\madm-sl\metodoasignacionpesos\metodoasignacionpesos.cpp
+	"MetodoAsignacionPesos.hpp"
+
+1606711873 d:\software\sistemas\investigacion\madm-sl\metodoasignacionpesos\metodoasignacionpesos.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1633533608 source:d:\software\sistemas\investigacion\madm-sl\pct\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<cstring>
+	<iostream>
+	<iomanip>
+	"pct.hpp"
+
+1606957905 d:\software\sistemas\investigacion\madm-sl\pct\pct.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	"../METODOASIGNACIONPESOS/MetodoAsignacionPesos.hpp"
+
+1606957905 source:d:\software\sistemas\investigacion\madm-sl\pct\pct.cpp
 	<iostream>
 	<iomanip>
 	<stdio.h>

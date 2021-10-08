@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     //PRUEBA DE PESOS 1
     Pct P1(8);
     #ifdef _WIN32
-    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\PCT\\pruebas\\pct1.csv");
+    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\MADM-SL\\PCT\\pruebas\\pct1.csv");
     #else
     strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/PCT/pruebas/pct1.csv");
     #endif

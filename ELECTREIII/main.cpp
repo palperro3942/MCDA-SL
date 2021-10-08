@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     //EXPLOTACIÓN POR DESTILACION - CONSTRUCCIÓN CORROBORADA CON J-ELECTRE
     ElectreIII E1(5,5,-1); //CORTE NO ESPECIFICADO EN ARTICULO, ASÍ QUE SE USA EL UMBRAL DE CORTE DEFAULT PROPUESTO POR ROY
     #ifdef _WIN32
-    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\artesanias.csv");
+    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\MADM-SL\\ELECTREIII\\pruebas\\artesanias.csv");
     #else
     strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/artesanias.csv");
     #endif
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     ElectreIII E2(6,6,0.60); //CORTE ESPECIFICADO EN ARTICULO
     //ElectreIII E2(6,6,0.80); //CORTE ESPECIFICADO EN ARTICULO
     #ifdef _WIN32
-    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\hoteles.csv");
+    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\MADM-SL\\ELECTREIII\\pruebas\\hoteles.csv");
     #else
     strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/hoteles.csv");
     #endif
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
     //EXPLOTACIÓN POR FLUJO NETO - SUSTAINABLE ENVIROMENTAL MANAGAMENT (EMS)
     ElectreIII E3(3,3,0.70); //CORTE ESPECIFICADO EN ARTICULO
     #ifdef _WIN32
-    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\ems.csv");
+    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\MADM-SL\\ELECTREIII\\pruebas\\ems.csv");
     #else
     strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/ems.csv");
     #endif
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     //EXPLOTACIÓN POR DESTILACION - TESIS IPN
     ElectreIII E4(9,6,0.85); //CORTE ESPECIFICADO EN ARTICULO
     #ifdef _WIN32
-    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\tesis.csv");
+    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\MADM-SL\\ELECTREIII\\pruebas\\tesis.csv");
     #else
     strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/tesis.csv");
     #endif
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
     //EXPLOTACIÓN POR DESTILACION - UNIVERSIDADES (TESIS CASTORENA)
     ElectreIII E5(6,5,-1); //CORTE NO ESPECIFICADO EN ARTICULO, ASÍ QUE SE USA EL UMBRAL DE CORTE DEFAULT PROPUESTO POR ROY
     #ifdef _WIN32
-    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\universidades.csv");
+    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\MADM-SL\\ELECTREIII\\pruebas\\universidades.csv");
     #else
     strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/universidades.csv");
     #endif
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
     //EXPLOTACIÓN POR DESTILACION - TRANSFERENCIA DE PRODUCTOS (TESIS CASTORENA)
     ElectreIII E6(9,6,-1); //CORTE NO ESPECIFICADO EN ARTICULO, ASÍ QUE SE USA EL UMBRAL DE CORTE DEFAULT PROPUESTO POR ROY
     #ifdef _WIN32
-    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\tproductos.csv");
+    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\MADM-SL\\ELECTREIII\\pruebas\\tproductos.csv");
     #else
     strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/tproductos.csv");
     #endif
@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
     //EXPLOTACIÓN POR DESTILACION - Multicriteria DM using Electre (TESIS CASTORENA)
     ElectreIII E7(9,6,-1); //CORTE NO ESPECIFICADO EN ARTICULO, ASÍ QUE SE USA EL UMBRAL DE CORTE DEFAULT PROPUESTO POR ROY
     #ifdef _WIN32
-    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\ELECTREIII\\pruebas\\MDMelectre.csv");
+    strcpy(NOMBREARCHIVO,"D:\\Software\\Sistemas\\Investigacion\\MADM-SL\\ELECTREIII\\pruebas\\MDMelectre.csv");
     #else
     strcpy(NOMBREARCHIVO,"/home/francisco/Software/Sistemas/Investigacion/MADM-SL/ELECTREIII/pruebas/MDMelectre.csv");
     #endif
