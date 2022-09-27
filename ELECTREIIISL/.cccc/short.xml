@@ -35,11 +35,11 @@
 <concrete>true</concrete>
 <extent>
 <description>pass by value</description>
-<source_reference file="../ELECTREIII/ElectreIII.hpp" line="54" />
+<source_reference file="../ELECTREIII/ElectreIII.cpp" line="578" />
 </extent>
 <extent>
 <description>pass by value</description>
-<source_reference file="../ELECTREIII/ElectreIII.cpp" line="578" />
+<source_reference file="../ELECTREIII/ElectreIII.hpp" line="54" />
 </extent>
 </client_module>
 <supplier_module>

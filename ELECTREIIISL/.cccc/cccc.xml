@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Report on software metrics-->
 <CCCC_Project>
-<timestamp>Sat Sep 25 20:14:13 2021
+<timestamp>Mon Nov 22 20:48:18 2021
 </timestamp>
 <project_summary>
 <number_of_modules value="6" level="0" />
@@ -198,15 +198,29 @@
 <other_extents>
 <rejected_extent>
 <name>&lt;file scope items&gt;</name>
-<source_reference file="../METODOMULTICRITERIO/MetodoMulticriterio.cpp" line="1" />
-<lines_of_code value="0" level="0" />
+<source_reference file="../SUPERACION/Superacion.hpp" line="1" />
+<lines_of_code value="1" level="0" />
 <lines_of_comment value="0" level="0" />
 <McCabes_cyclomatic_complexity value="0" level="0" />
 </rejected_extent>
 <rejected_extent>
 <name>&lt;file scope items&gt;</name>
-<source_reference file="../ELECTREIII/ElectreIII.hpp" line="1" />
+<source_reference file="../SUPERACION/Superacion.cpp" line="1" />
 <lines_of_code value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+</rejected_extent>
+<rejected_extent>
+<name>&lt;file scope items&gt;</name>
+<source_reference file="../ELECTREIII/ElectreIII.cpp" line="1" />
+<lines_of_code value="3" level="0" />
+<lines_of_comment value="0" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+</rejected_extent>
+<rejected_extent>
+<name>&lt;file scope items&gt;</name>
+<source_reference file="../METODOMULTICRITERIO/MetodoMulticriterio.cpp" line="1" />
+<lines_of_code value="1" level="0" />
 <lines_of_comment value="0" level="0" />
 <McCabes_cyclomatic_complexity value="0" level="0" />
 </rejected_extent>
@@ -226,21 +240,7 @@
 </rejected_extent>
 <rejected_extent>
 <name>&lt;file scope items&gt;</name>
-<source_reference file="../ELECTREIII/ElectreIII.cpp" line="1" />
-<lines_of_code value="3" level="0" />
-<lines_of_comment value="0" level="0" />
-<McCabes_cyclomatic_complexity value="0" level="0" />
-</rejected_extent>
-<rejected_extent>
-<name>&lt;file scope items&gt;</name>
-<source_reference file="../SUPERACION/Superacion.hpp" line="1" />
-<lines_of_code value="2" level="0" />
-<lines_of_comment value="0" level="0" />
-<McCabes_cyclomatic_complexity value="0" level="0" />
-</rejected_extent>
-<rejected_extent>
-<name>&lt;file scope items&gt;</name>
-<source_reference file="../SUPERACION/Superacion.cpp" line="1" />
+<source_reference file="../ELECTREIII/ElectreIII.hpp" line="1" />
 <lines_of_code value="2" level="0" />
 <lines_of_comment value="0" level="0" />
 <McCabes_cyclomatic_complexity value="0" level="0" />

@@ -34,6 +34,10 @@
 <visible>true</visible>
 <concrete>true</concrete>
 <extent>
+<description>pass by reference</description>
+<source_reference file="../ELECTREIII/ElectreIII.cpp" line="578" />
+</extent>
+<extent>
 <description>has by value</description>
 <source_reference file="../ELECTREIII/ElectreIII.hpp" line="37" />
 </extent>
@@ -68,10 +72,6 @@
 <extent>
 <description>pass by reference</description>
 <source_reference file="../ELECTREIII/ElectreIII.hpp" line="54" />
-</extent>
-<extent>
-<description>pass by reference</description>
-<source_reference file="../ELECTREIII/ElectreIII.cpp" line="578" />
 </extent>
 <name>Superacion</name>
 <visible>true</visible>
